@@ -89,3 +89,5 @@ Tip: clicking any row in the table automatically fills the form boxes.
 - **"javac is not recognized"**: JDK is not installed or not in PATH. Install the JDK and restart VS Code.
 - **No Run button visible**: install the "Extension Pack for Java" and reopen the folder.
 - **Window does not appear**: check the taskbar, it may have opened behind VS Code.
+## Project Screenshot
+![Student Record Manager](docs/Screenshot 2026-11-04 220622.png)
