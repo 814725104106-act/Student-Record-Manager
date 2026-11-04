@@ -90,4 +90,4 @@ Tip: clicking any row in the table automatically fills the form boxes.
 - **No Run button visible**: install the "Extension Pack for Java" and reopen the folder.
 - **Window does not appear**: check the taskbar, it may have opened behind VS Code.
 ## Project Screenshot
-![Student Record Manager](./Screenshot%202026-11-04%20220622.png)
+![Student Record Manager](docs/Screenshot%202026-11-04%20220622.png)
